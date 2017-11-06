@@ -1,0 +1,80 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12pt; 
+  width: 75%;
+  margin: 0 auto;
+  background-color: black;
+  
+}
+h2 {
+  border-bottom: 2px black solid;
+  font-size: 1.2em;
+  margin: 10px 0 0 0;
+  padding: 10px 0 0 10px;
+  color:white;
+}
+tr {
+  margin-bottom: 10px;
+  color:white;
+}
+section {
+  color:white;
+}
+header {
+  border-bottom: 3px black solid;
+  height: 70px;
+  margin-bottom: 20px;
+  color:white;
+}
+header h1 {
+  width: 50%;
+  font-size: 2.55em;
+  color:white;
+}
+header ul {
+  float: right;
+  list-style-type: none;
+  color:white;
+}
+
+br{
+  color:white;
+}
+#workExperience {
+  width: 70%;
+}
+
+.date {
+  border-right: 2px black solid;
+  text-align: center;
+  color:white;
+}
+td {
+  padding: 15px;
+  margin-bottom: 5px;
+  color:white;
+}
+
+#rightColumn {
+  width: 29%;
+  float: right;
+}
+#objective h2 {
+  margin: 0px
+}
+#rightColumn p {
+  padding: 2px 5px 5px 10px;
+}
+#charityWork {
+  clear: right;
+  color:white;
+}
+.accent {
+  color: #4EC5C1;
+  color:white;
+}
+footer {
+  color: #4EC5C1;
+  text-align: center;
+  color:white;
+}
